@@ -15,6 +15,4 @@ The [sample application](https://dragongr.github.io/minhash/) uses minhash.js to
 ![app preview](https://raw.githubusercontent.com/dragonGR/minhash/master/images/preview.png)
 
 There is also a sample Node.js script that can be run with `node examples/index.js`.
-
-To run the test suite — `npm run test`.
 To compile and minify minhash.min.js — `npm run build`.
